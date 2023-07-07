@@ -1,4 +1,8 @@
-#include <flipper.h>
+#include <stdio.h>
+#include <furi.h>
+#include <furi_hal.h>
+#include <gui/gui.h>
+#include <input/input.h>
 
 int uart_fd;
 int selected_baud_rate = 115200; // Default baud rate
