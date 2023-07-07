@@ -1,5 +1,5 @@
 App(
-    appid="esp32_sub counter",
+    appid="esp32_sub_counter",
     name="[ESP32] Sub counter",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="wifi_sub_counter",
