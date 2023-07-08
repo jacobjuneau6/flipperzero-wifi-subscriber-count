@@ -38,7 +38,7 @@ int main() {
             if(event.type == EventTypeKey) {
                 if(event.input.type == InputTypePress) {
                     if(event.input.key == InputKeyOk) {
-                        uart_write("AT", 2);
+                        uart_write("get_subscriber_count", 20);
                         vTaskDelay(30000);
                         uint8_t buffer[64];
                         size_t bytes_read = uart_read(buffer, sizeof(buffer));
