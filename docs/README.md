@@ -1,1 +1,1 @@
-This will get the subscriber count for any youtuber.  To use it you need to put in the wifi SSID and P@$w0rd plus a youtube api key and the channel ID. Once you load the scketch onto the wifi dev board, you open the app and click the CENTER button.
+This will get the subscriber count for any youtuber.  To use it you need to put in the wifi SSID and P@$w0rd plus a youtube api key and the channel ID. Once you load the scketch onto the wifi dev board, you open the app and click on which channel you want to look up then click save.
